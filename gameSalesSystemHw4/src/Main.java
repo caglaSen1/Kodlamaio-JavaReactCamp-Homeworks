@@ -14,7 +14,7 @@ import Entities.Gamer;
 public class Main {
 
 	public static void main(String[] args) {
-		Gamer gamer1 = new Gamer(1, "Çaðla", "Þen", "38996140066", 2001);
+		Gamer gamer1 = new Gamer(1, "Çaðla", "Þen", "12345678910", 2001);
 		Game game1 = new Game(1, "X GAME", 50);
 		Game game2 = new Game(2, "Y GAME", 45);
 		Campaign campaign1 = new Campaign(1, "NEW REGISTRATION DISCOUNT", 30);
